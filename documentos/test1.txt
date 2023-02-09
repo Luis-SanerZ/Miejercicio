@@ -6,3 +6,18 @@ Instrucciones: Responder en el espacio entre los corchetes "[ ]" junto a cada pr
 3. GitHub es un repositorio remoto para subir contenido [F]
 4. La rama master es la rama que guarda los ficheros [F]
 5. Git se usa principalmente para poder descargar código [F]
+
+TEST CON PREGUNTAS (V/F) SOBRE GIT
+Instrucciones: Responder en el espacio entre los corchetes "[ ]" junto a cada pregunta, indicando si es verdadera (V) o falsa (F).
+
+PRIMERA PARTE
+6. En Git es posible descargarse un repositorio [V]
+7. Git es un apodo de GitHub [F]
+8. El historial de confirmación de Git se elimina automáticamente cada semana [V]
+
+
+SEGUNDA PARTE
+9. En Git una rama es una versión separada del repositorio principal [F]
+10. Pull es una combinación de push y merge [V]
+11. Git es lo mismo que GitHub [F]
+
